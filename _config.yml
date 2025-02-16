@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Digital footprint of Performer BabyWinehouse <3--Magandjin (so-called Brisbane) 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://babywinehouse.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: babywinehouse
+instagram_username: baby.winehouse
 
 # Build settings
 theme: minima
